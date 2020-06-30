@@ -1,15 +1,8 @@
-This repo consists of the practical exercises done within the data science career track. Link below.
+# Data Scientist with Python
 
-# Datacamp career track - Data Scientist with Python
-https://www.datacamp.com/tracks/data-scientist-with-python
+Gain the career-building Python skills you need to succeed as a data scientist. No prior coding experience required.
 
-python_importing_data - learn how to import data from different types of sources into Python
-
-python_data_cleaning - how to handle improper data types, deal with missing data, and perform record linkage
-
-python_ds_toolbox - Learning to write custom functions with parameters
-
-datacamp_projects - projects from data come carrying out end to end analysis on real_world problems. 
+In this track, you'll learn how this versatile language allows you to import, clean, manipulate, and visualize data—all integral skills for any aspiring data professional or researcher. Through interactive exercises, you'll get hands-on with some of the most popular Python libraries, including pandas, NumPy, Matplotlib, and many more. You'll then work with real-world datasets to learn the statistical and machine learning techniques you need to train decision trees and use natural language processing (NLP). 
 
 
 
